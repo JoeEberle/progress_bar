@@ -2,10 +2,14 @@
 
 ![Code Logo](code.png)
 
-Welcome to Progress Bars   - Quickly generate progress bars - Its EASY !!!   
-  
+Welcome to Progress Bars - Quickly generate progress bars - Its EASY !!!   
 
 ![Code Logo](developer.png)
+
+
+
+![Sample Logo](sample.png)
+
 
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
