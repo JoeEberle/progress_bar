@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Progress Bar - Solution for Progress Bar
 Solution for Progress Bar
 
@@ -9,8 +11,6 @@ Welcome to the solution **Progress Bar** - an example for your projects
 Solution for Progress Bar
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
