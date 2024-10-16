@@ -39,11 +39,8 @@ To get started with the **Progress Bar** solution repository, follow these steps
  ![additional_image](progress_bar.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
